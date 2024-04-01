@@ -21,10 +21,11 @@ GO
 INSERT INTO ENVIO (COD_REGIAO, FRETE, NOMENAVIO, CIDADE, ESTADO, REGIAO, NOME_CATEGORIA, DESCRICAO, COD_CATEGORIA, COD_ENVIO, PAIS, DATA_ENVIO)
 VALUES
 	(1, 50, 'Cruzeiro do Neymar', 'Resende', 'Rio de Janeiro', 'Sudeste', 'Soja', 'Soja alimenticia', 1, 10250, 'Brazil', '1996-07-07'),
-	(2, 60, 'Coiote', 'Roma', 'L·cio', NULL, 'Vestu·rios', 'SuÈteres', 2, 10251, 'Italy', '1996-08-08'),
-	(3, 70, 'Sardinha', 'Bern', 'Regi„o Alem„', NULL, 'Chocolate', 'Caixas de chocolates', 3, 10252, 'Switzerland', '1996-09-09'),
-	(4, 40, 'Pintado', 'Berlin', 'Noroeste', NULL, 'CosmÈticos', 'Maquiagens', 4, 10253, 'Germany', '1996-10-10'),
-	(5, 30, 'Titanic', 'Liverpool', 'Merseyside', 'Noroeste da Inglaterra', 'Computadores', 'Produtos eletrÙnicos', 5, 10254, 'England', '1996-11-11'),
-	(6, 20, 'Orca', 'Lyon', 'Auvergne-RhÙne-Alpes', 'Leste Central', 'Perfumes', 'CosmÈticos', 6, 10255, 'France', '1996-12-12'),
-	(7, 10, 'Trator', 'Seoul', 'Gyeonggi', 'Noroeste', 'CDS', '¡lbuns com CDS', 7, 10256, 'South Korea', '1997-01-01')
+	(2, 60, 'Coiote', 'Roma', 'L√°cio', NULL, 'Vestu√°rios', 'Su√©teres', 2, 10251, 'Italy', '1996-08-08'),
+	(3, 70, 'Sardinha', 'Bern', 'Regi√£o Alem√£', NULL, 'Chocolate', 'Caixas de chocolates', 3, 10252, 'Switzerland', '1996-09-09'),
+	(4, 40, 'Pintado', 'Berlin', 'Noroeste', NULL, 'Cosm√©ticos', 'Maquiagens', 4, 10253, 'Germany', '1996-10-10'),
+	(5, 30, 'Titanic', 'Liverpool', 'Merseyside', 'Noroeste da Inglaterra', 'Computadores', 'Produtos eletr√¥nicos', 5, 10254, 'England', '1996-11-11'),
+	(6, 20, 'Orca', 'Lyon', 'Auvergne-Rh√¥ne-Alpes', 'Leste Central', 'Perfumes', 'Cosm√©ticos', 6, 10255, 'France', '1996-12-12'),
+	(7, 10, 'Trator', 'Seoul', 'Gyeonggi', 'Noroeste', 'CDS', '√Ålbuns com CDS', 7, 10256, 'South Korea', '1997-01-01')
 	;
+	GO
